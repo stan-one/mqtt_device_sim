@@ -28,6 +28,10 @@ This is software was created as a byproduct of a closed source project of mine, 
 
 Currently, there are no security features coded into the simulated device.
 
+#### Why is it there Death time?
+
+I found out that the MQTT broker needs some time to process the publish/suscription other ways kicks out the new device
+
 
 ## Usage/Examples
 
