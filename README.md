@@ -61,7 +61,7 @@ TEST(mqtt_avalibility, check_mosquitto){
 ## Installation and Usage
 
 This sofware is dependent on the paho-cpp library, you must install it first.
-Follow the install instruction from link [link](https://github.com/eclipse/paho.mqtt.cpp)
+Follow the instructions from [link](https://github.com/eclipse/paho.mqtt.cpp)
 
 Is recommended to use a testing framework like GTest, but the code will run without one.
 
