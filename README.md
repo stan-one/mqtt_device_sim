@@ -3,7 +3,7 @@
 
 This small piece of code is a mock/simulation of a IoT device with MQTT. It is useful for simulating real IoT devices in an MQTT enabled network for testing purposes.
 
-Instead of loading the firmware to a real device for testing, you can use this project for simulation the communication over MQTT. You can publish to a topic, listen to a topic asyncronally, and later pull out the received data.
+Instead of loading the firmware to a real device for testing, you can use this project to simulate the communication over MQTT. You can publish to a topic, listen to a topic asyncronally, and later pull out the received data.
 
 The implementation allows that one simulated device can be both a listener and a subscriber although this has no real usage.
 
